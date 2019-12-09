@@ -36,7 +36,7 @@ header {
 }
 
 header h1 {
-    padding: 65px 0 65px 25px;
+    padding: 65px 25px;
     font-family: 'Lora', sans-serif;
     font-size: 30px;
     font-weight: normal;
@@ -65,7 +65,7 @@ header h2 {
     font-size: 72px;
     line-height: 80px;
     color: #9B9B9B;
-    padding: 20px 0 20px 25px;
+    padding: 20px 25px;
 }
 header h2 span {
     color: #2B2B2B;
